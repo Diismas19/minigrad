@@ -16,7 +16,7 @@ The mainly data structure is the `Tensor`, which entangle a `numpy` array, and k
 
 You need `python 3.8+`. In your directory, clone the repository.
 ```
-git clone https://github.com/seu-usuario/minigrad.git
+git clone https://github.com/Diismas19/minigrad
 cd minigrad
 ```
 I strongly suggest that you use a virtual enverioment.
@@ -37,4 +37,4 @@ You can run the `examples.ipynb` and use the tool for yourself.
 # Contact
 
 Vitor Petri - vitorpetrisilva@gmail.com
-Link: 
+Link: https://github.com/Diismas19/minigrad
