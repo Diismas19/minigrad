@@ -21,7 +21,7 @@ cd minigrad
 ```
 I strongly suggest that you use a virtual enverioment.
 ```
-python -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 ```
 Then install the requirements.
